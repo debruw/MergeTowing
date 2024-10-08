@@ -1,15 +1,18 @@
-# Trivia Color
-Made with Unity 2019.4.11f1
+# Merge Towing
+Made with Unity 2020.3.27f1
 
 # Used Technologies
 * DoTween
-* Addressables
+* Obi rope
+* Particle image
 * Cinemachine
-* Scriptables
+* Probuilder
 * Singleton pattern
 * Stylized water
-* UI toolkit
+* Scriptables
+* Spine
+* New input system
 * Taptics
   
-# Gameplay Video
-[![Trivia Color](https://img.youtube.com/vi/ToPGemjF0HY/0.jpg)](https://www.youtube.com/watch?v=ToPGemjF0HY)
+# Merge Towing
+[![Merge Towing](https://img.youtube.com/vi/5zX1vTm3eEU/0.jpg)](https://www.youtube.com/watch?v=5zX1vTm3eEU)
